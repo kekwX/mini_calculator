@@ -1,1 +1,1 @@
-# Mini calculator in Golang 💫
+# Mini calculator on Golang 💫
